@@ -1,9 +1,9 @@
 # 🚀 AI-Powered Resume Generator using MERN + Gemini Flash 2.5 + Tailwind UI
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/ChinmayKaitade/Resume-Builder-MERN?style=for-the-badge&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/ChinmayKaitade/Resume-Builder-MERN?style=for-the-badge&color=orange" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/ChinmayKaitade/Resume-Builder-MERN?style=for-the-badge&color=red" alt="Issues" />
+  <img src="https://img.shields.io/github/stars/palaksatija123/Resume-Builder-AI-MERN?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/palaksatija123/Resume-Builder-AI-MERN?style=for-the-badge&color=orange" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/palaksatija123/Resume-Builder-AI-MERN?style=for-the-badge&color=red" alt="Issues" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </p>
 
@@ -110,12 +110,12 @@ AI Layer (Gemini Flash 2.5)
 ## 🌐 Live Demo
 
 <!-- Frontend Live -->
-  <a href="https://resume-builder-ai-mern.vercel.app/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Frontend-Live-blue?style=for-the-badge" alt="Frontend Live" />
   </a>
 
   <!-- Backend Live -->
-  <a href="https://resume-builder-ai-backend.onrender.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Backend-Live-purple?style=for-the-badge" alt="Backend Live" />
   </a>
 
@@ -126,7 +126,7 @@ AI Layer (Gemini Flash 2.5)
 Clone the repo
 
 ```bash
-git clone https://github.com/ChinmayKaitade/Resume-Builder-MERN
+git clone https://github.com/https://github.com/palaksatija123/Resume-Builder-AI-MERN
 cd Resume-Builder-MERN
 ```
 
@@ -257,27 +257,18 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 📬 Contact
 
-**👤 Chinmay Kaitade**
+**👤 Palak Satija**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chinmay-sharad-kaitade" target="_blank">
+  <a href="https://www.linkedin.com/in/palak-satija-525441258" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:chinmaykaitade123@gmail.com" target="_blank">
+  <a href="mailto:palaksatija1330@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://twitter.com/chinmaydotcom" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://github.com/ChinmayKaitade" target="_blank">
+  <a href="https://github.com/palaksatija123/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://chinmaykaitadeportfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@chinmaykaitade" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
-> Made with ❤️ by Chinmay Kaitade
+> Made with ❤️ by Palak Satija
