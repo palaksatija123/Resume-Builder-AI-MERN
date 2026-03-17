@@ -8,6 +8,14 @@ import userRouter from "./routes/userRoutes.js";
 import resumeRouter from "./routes/resumeRoutes.js";
 import aiRouter from "./routes/aiRoutes.js";
 
+// {{ DNS CONFIGURATIONS }}
+// ******************************* //
+import dns from "dns";
+
+// Change DNS 
+dns.setServers(["1.1.1.1", "8.8.8.8"])
+// ******************************* //
+
 const app = express();
 const PORT = process.env.PORT || 3000;
 

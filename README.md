@@ -1,9 +1,9 @@
 # 🚀 AI-Powered Resume Generator using MERN + Gemini Flash 2.5 + Tailwind UI
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/palaksatija123/Resume-Builder-MERN?style=for-the-badge&color=yellow" alt="Stars" />
-  <img src="https://img.shields.io/github/forks/palaksatija123/Resume-Builder-MERN?style=for-the-badge&color=orange" alt="Forks" />
-  <img src="https://img.shields.io/github/issues/palaksatija123/Resume-Builder-MERN?style=for-the-badge&color=red" alt="Issues" />
+  <img src="https://img.shields.io/github/stars/ChinmayKaitade/Resume-Builder-MERN?style=for-the-badge&color=yellow" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/ChinmayKaitade/Resume-Builder-MERN?style=for-the-badge&color=orange" alt="Forks" />
+  <img src="https://img.shields.io/github/issues/ChinmayKaitade/Resume-Builder-MERN?style=for-the-badge&color=red" alt="Issues" />
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License" />
 </p>
 
@@ -126,8 +126,8 @@ AI Layer (Gemini Flash 2.5)
 Clone the repo
 
 ```bash
-git clone https://github.com/palaksatija123/Resume-Builder-AI
-cd Resume-Builder-AI
+git clone https://github.com/ChinmayKaitade/Resume-Builder-MERN
+cd Resume-Builder-MERN
 ```
 
 Install dependencies
@@ -253,5 +253,31 @@ Contributions are **highly appreciated** 💙
 
 This project is licensed under the [MIT License](./LICENSE).
 
+---
 
+## 📬 Contact
 
+**👤 Chinmay Kaitade**
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chinmay-sharad-kaitade" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chinmaykaitade123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/chinmaydotcom" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChinmayKaitade" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://chinmaykaitadeportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@chinmaykaitade" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
+
+> Made with ❤️ by Chinmay Kaitade

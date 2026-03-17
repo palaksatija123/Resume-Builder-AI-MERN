@@ -10,7 +10,7 @@ const Footer = () => {
         {/* Main Content Wrapper: Contains Logo and all Navigation Columns */}
         <div className="flex flex-wrap items-start gap-10 md:gap-[60px] xl:gap-[140px]">
           {/* Logo/Branding Link */}
-          <a href="https://resume-builder-ai-mern.vercel.app/">
+          <a href="https://github.com/palaksatija123">
             <img
               src="./logo.svg"
               alt="Resume Builder Logo" // Good practice: descriptive alt text
@@ -137,7 +137,7 @@ const Footer = () => {
 
             {/* LinkedIn Link */}
             <a
-              href="https://linkedin.com/in/palak-satija-525441258"
+              href="https://github.com/palaksatija123"
               target="_blank"
               rel="noreferrer"
             >
